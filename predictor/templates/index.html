@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% load static %}
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+    <title>Mental Health Predictor</title>
+
+    <!-- CSS  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="{% static 'materialize.css' %}" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="{% static 'style.css' %}" type="text/css" rel="stylesheet" media="screen,projection"/>
+  </head>
+
+  <body>
+    <div class="section no-pad-bot" id="index-banner">
+      <div class="container">
+        <br><br>
+        <h1 class="header center orange-text">Mental Health Prediction</h1>
+          <div class="row center">
+            <h5 class="header col s12 light">Predict the probability whether a person requires Mental Treatment
+              <br>
+            </h5>
+          </div>
+        <div class="row left">
+          <h6 class="header col s12 light"><strong>Instructions to fill form</strong><br>1. Enter age in years<br>2. For Gender: Enter 0 for male, 1 for female and 2 for transgender<br>3. For Family History: Enter 0 for No and 1 for Yes<br>4. For remote work enter 0 otherwise enter 1 <br>5. If you had mental issues before enter 1 else 0<br>6. Enter 1 if you are feeling lonely else enter 1 <br>7. Enter 1 if you have physical health consequences else enter 0 <br>8. Enter 1 if you observed any consequences else enter 0</h6>
+        </div>
+
+        <div class="row">
+          <form action={% url 'predict' %} method="post" class="col s12">
+            {% csrf_token %}
+           
+              <div class="input-field">
+                <label><b>What is your age?</b></label>
+                <br>
+                <input  name="Age" id="first_name" type="text" class="validate">
+              </div>
+              <div class="input-field">
+                <label><b>Mention you gender</b></label>
+                <br>
+                <input id="last_name" name="Gender"  type="text" class="validate">
+              </div>
+              <div class="input-field">
+                <label ><b>Anybody in your family have mental issues?</b></label>
+                <br>
+                <input id="_name" name="Family_history" type="text" class="validate">
+              </div>
+              <div class="input-field">
+                <label ><b>Are you working from home or office?</b></label>
+                <br>
+                <input id="_name" name="Remote_eork" type="text" class="validate">
+              </div>
+              <div class="input-field ">
+                <label><b>Did you ever seek help for mental health issues?</b></label>
+                <br>
+                <input id="_name" name="Seak_help"  type="text" class="validate">
+              </div>
+              <div class="input-field ">
+                <label ><b>Are you facing loneliness?</b></label>
+                <br>
+                <input id="_name" name="anonymity"  type="text" class="validate">
+              </div>
+              <div class="input-field ">
+                <label ><b>Do you have any physical health consequences?</b></label>
+                <br>
+                <input id="_name" name="phys_health_consequence"  type="text" class="validate">
+              </div>
+              <div class="input-field ">
+                <label><b>Did you observed any mental or physical consequences?</b></label>
+                <br>
+                <input id="_name" name="obs_consequence" type="text" class="validate">
+              </div>
+            
+            <div class="row center">
+              <button type="submit" class="btn-large waves-effect waves-light orange">Predict Probability</button>
+            </div>
+          </form>
+        </div>
+        <br>
+        <div class="row center">
+          <h6 class="waves-effect waves-light orange">{{pred}}<br></h6>
+        </div>
+      </div>
+    </div>
+    <br><br>
+  </div>
+</div>
+</body>
+</html>

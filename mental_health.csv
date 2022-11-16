@@ -1,0 +1,1260 @@
+Age,Gender,family_history,treatment,remote_work,seek_help,anonymity,phys_health_consequence,obs_consequence
+37,Female,No,Yes,No,Yes,Yes,No,No
+44,M,No,No,No,Don't know,Don't know,No,No
+32,Male,No,No,No,No,Don't know,No,No
+31,Male,Yes,Yes,No,No,No,Yes,Yes
+31,Male,No,No,Yes,Don't know,Don't know,No,No
+33,Male,Yes,No,No,Don't know,Don't know,No,No
+35,Female,Yes,Yes,Yes,No,No,Maybe,No
+39,M,No,No,Yes,No,Yes,No,No
+42,Female,Yes,Yes,No,No,No,No,No
+23,Male,No,No,No,Don't know,Don't know,No,No
+31,Male,No,Yes,Yes,No,Don't know,No,No
+29,male,No,No,Yes,No,Don't know,No,No
+42,female,Yes,Yes,No,No,Don't know,Yes,Yes
+36,Male,Yes,No,No,Don't know,Don't know,No,No
+27,Male,No,No,No,Don't know,Don't know,No,No
+29,female,Yes,Yes,No,No,Don't know,No,No
+23,Male,No,Yes,Yes,Don't know,Don't know,No,No
+32,Male,No,Yes,No,Don't know,Don't know,No,No
+46,male,Yes,No,Yes,Don't know,Yes,No,Yes
+36,Male,Yes,No,Yes,No,Yes,No,No
+29,Male,Yes,Yes,No,No,No,No,No
+31,male,No,No,Yes,No,Yes,No,No
+46,Male,No,Yes,Yes,No,Don't know,No,No
+41,Male,No,Yes,No,Don't know,Don't know,No,No
+33,male,Yes,Yes,No,Yes,Yes,No,No
+35,male,Yes,Yes,No,Don't know,No,No,No
+33,male,No,No,No,Don't know,Don't know,Maybe,No
+35,Female,Yes,Yes,Yes,Don't know,Don't know,No,No
+34,male,No,Yes,Yes,Don't know,Don't know,No,No
+37,Male,No,No,No,No,Don't know,Maybe,No
+32,Male,No,No,Yes,No,Don't know,Yes,No
+31,Male,Yes,No,Yes,No,Don't know,No,Yes
+30,male,Yes,Yes,Yes,No,Yes,No,No
+42,Male,Yes,Yes,Yes,Yes,Yes,No,No
+40,female,No,Yes,No,No,Don't know,No,No
+27,Male,No,Yes,No,No,Don't know,No,No
+29,Male,No,No,No,No,Don't know,Maybe,No
+38,Male,No,No,No,No,Don't know,No,No
+50,M,No,No,No,Don't know,Don't know,No,No
+35,M,No,Yes,Yes,Yes,Yes,No,No
+24,Male,No,Yes,No,No,Don't know,Maybe,Yes
+35,Male,No,No,Yes,Yes,Don't know,Yes,No
+27,Male,Yes,Yes,No,No,Yes,No,No
+18,Male,No,No,No,No,Don't know,Maybe,No
+30,Male,No,Yes,No,No,Don't know,No,No
+38,Female,Yes,Yes,No,Yes,Yes,No,No
+28,Male,No,No,No,No,Don't know,Maybe,No
+34,Male,No,No,No,No,Don't know,No,No
+26,m,No,No,No,No,Don't know,No,No
+30,male,Yes,Yes,No,Don't know,Don't know,No,No
+22,M,Yes,Yes,No,No,Yes,No,No
+33,Male,No,No,Yes,Don't know,Don't know,No,No
+31,M,No,No,Yes,Don't know,Don't know,Maybe,No
+32,Male,No,No,Yes,No,Don't know,No,No
+28,M,No,No,No,No,Don't know,No,No
+27,Male-ish,Yes,Yes,No,No,Yes,No,No
+32,maile,Yes,No,Yes,No,Don't know,No,No
+24,Male,Yes,Yes,Yes,No,Don't know,Maybe,No
+26,Male,No,No,No,No,Yes,No,No
+33,male,Yes,Yes,Yes,No,No,No,No
+44,Male,Yes,Yes,No,Don't know,Don't know,Maybe,Yes
+26,Female,No,Yes,Yes,Yes,Yes,No,No
+27,Male,No,No,No,Yes,Don't know,No,No
+26,Male,No,No,No,No,Don't know,No,Yes
+35,male,No,No,No,No,Don't know,No,No
+40,Male,Yes,No,Yes,Yes,Don't know,Maybe,Yes
+23,Female,Yes,Yes,Yes,No,Don't know,No,No
+36,M,No,No,Yes,Yes,Don't know,No,No
+31,Female,No,No,Yes,Don't know,Don't know,No,No
+34,Male,No,No,Yes,No,Don't know,No,No
+28,m,No,No,No,No,Don't know,No,No
+34,male,No,No,No,Don't know,Don't know,No,No
+23,Trans-female,No,No,No,No,Yes,No,No
+38,Male,No,No,No,Don't know,Yes,No,No
+33,Male,No,No,No,Don't know,Don't know,No,No
+19,Male,No,No,No,No,No,No,No
+25,Male,No,No,Yes,Yes,Don't know,No,No
+31,Male,Yes,No,Yes,No,Yes,No,No
+32,Male,Yes,Yes,Yes,No,Don't know,No,No
+28,m,No,No,Yes,Don't know,Don't know,No,No
+38,Male,Yes,No,Yes,Yes,Don't know,No,No
+23,Male,No,No,No,Don't know,Don't know,No,No
+30,male,No,No,No,No,Don't know,No,No
+27,Cis Female,No,Yes,Yes,Yes,Yes,Maybe,No
+33,Male,Yes,No,No,No,Don't know,No,No
+31,Male,No,No,No,No,Don't know,No,No
+39,Male,No,Yes,No,No,Don't know,No,Yes
+34,female,Yes,Yes,Yes,Don't know,Don't know,Maybe,No
+29,F,No,Yes,No,No,Don't know,No,Yes
+32,M,No,No,No,Don't know,Don't know,No,No
+31,Male,No,No,No,Yes,Yes,No,No
+40,male,No,Yes,No,No,Yes,No,No
+34,Male,No,No,No,No,Don't know,No,No
+18,something kinda male?,No,No,Yes,No,Yes,No,No
+25,F,No,Yes,No,Don't know,Don't know,No,No
+29,male,No,No,No,Don't know,Don't know,No,No
+24,Male,Yes,No,No,Don't know,Don't know,Maybe,No
+31,male,Yes,Yes,No,No,Don't know,No,No
+33,Cis Male,No,Yes,No,No,Don't know,No,No
+30,M,No,Yes,No,No,Yes,No,No
+26,female,Yes,Yes,No,No,No,No,Yes
+44,Female,No,No,No,Don't know,Don't know,Maybe,No
+25,Male,Yes,No,No,Don't know,Don't know,No,No
+33,Male,Yes,Yes,Yes,Yes,Yes,No,No
+29,Male,No,No,No,Don't know,Don't know,No,No
+35,Male,Yes,No,No,No,Yes,No,No
+35,M,Yes,Yes,Yes,No,Don't know,No,No
+28,Male,Yes,Yes,No,No,No,No,Yes
+34,m,Yes,No,Yes,No,Don't know,No,No
+32,Male,No,Yes,No,Yes,Yes,No,No
+22,Male,No,Yes,No,Don't know,Yes,No,No
+28,Male,No,Yes,No,Yes,Yes,No,No
+45,male,Yes,Yes,Yes,Yes,Yes,No,No
+32,Male,No,No,No,Don't know,Don't know,No,No
+28,male,No,No,No,Don't know,Don't know,No,No
+26,Male,No,No,No,Don't know,Don't know,No,Yes
+21,Male,No,No,Yes,No,Yes,No,No
+27,Male,No,No,No,Yes,Yes,No,No
+18,Male,No,Yes,Yes,No,Yes,No,No
+35,Male,No,No,Yes,Don't know,Don't know,No,No
+29,Male,No,No,No,Yes,Don't know,Yes,No
+25,Male,No,No,Yes,No,Don't know,No,No
+33,Male,Yes,Yes,Yes,Don't know,Yes,No,No
+36,Male,No,No,No,No,Yes,No,No
+27,Male,No,Yes,No,No,Don't know,No,Yes
+27,Male,Yes,No,No,Yes,Yes,No,No
+27,Male,No,No,No,No,Don't know,No,No
+32,M,No,Yes,No,Yes,Yes,No,No
+31,Male,Yes,No,No,No,Don't know,Maybe,No
+19,male,No,Yes,No,No,Don't know,Yes,No
+33,Male,Yes,Yes,No,No,Don't know,No,No
+32,male,No,No,Yes,No,Don't know,No,No
+27,Male,No,No,No,Don't know,Don't know,No,No
+38,Male,No,No,Yes,No,Yes,No,No
+24,Male,No,Yes,No,No,Don't know,No,No
+39,M,No,No,No,No,Don't know,Maybe,No
+28,Male,No,No,No,No,Yes,No,No
+39,Male,No,Yes,No,No,Don't know,No,No
+29,Female,No,No,No,Don't know,Don't know,No,No
+22,m,No,No,Yes,No,Don't know,No,No
+38,Male,Yes,Yes,No,Don't know,Don't know,No,No
+37,Male,No,Yes,No,Yes,Yes,Yes,No
+35,M,No,No,Yes,Don't know,Don't know,No,No
+-29,Male,No,No,Yes,Yes,Don't know,No,No
+30,Female,Yes,No,Yes,Don't know,Don't know,Maybe,No
+37,Male,Yes,Yes,No,Yes,Don't know,Maybe,No
+24,M,No,No,No,No,Yes,Maybe,No
+23,Male,No,No,No,No,No,Yes,No
+30,male,No,Yes,No,Yes,Don't know,No,Yes
+29,Female,No,No,Yes,Don't know,Don't know,No,No
+19,Male,Yes,No,Yes,Yes,Yes,No,No
+32,male,Yes,No,No,No,Don't know,No,No
+28,male,No,No,Yes,No,Don't know,No,No
+36,Male,No,No,No,Don't know,Don't know,No,No
+37,Male,Yes,Yes,No,Yes,Yes,Maybe,Yes
+25,Male,Yes,Yes,No,Don't know,Don't know,No,No
+27,Male,Yes,Yes,No,Don't know,Don't know,No,No
+26,male,No,No,No,No,Don't know,Maybe,No
+27,male,No,Yes,Yes,No,Don't know,No,Yes
+25,Male,Yes,Yes,No,No,Don't know,No,Yes
+36,Male,No,Yes,No,Yes,Yes,Maybe,Yes
+25,F,Yes,Yes,No,No,Don't know,Yes,No
+31,M,No,No,No,Yes,Don't know,No,No
+26,male,Yes,No,No,No,Don't know,No,No
+33,F,Yes,Yes,No,Yes,Yes,No,No
+27,Woman,Yes,No,Yes,No,Yes,No,No
+34,Male,No,No,No,No,Don't know,No,No
+42,male,No,No,No,No,Don't know,No,No
+23,male,Yes,No,No,No,Don't know,No,No
+24,Male,No,No,No,Don't know,Don't know,Maybe,No
+26,Male,No,Yes,No,Don't know,Yes,No,No
+31,Male,No,Yes,No,No,Don't know,No,No
+22,M,No,Yes,No,No,Don't know,Maybe,No
+23,Female,No,No,No,Don't know,Don't know,Maybe,No
+34,Female,Yes,Yes,No,No,Don't know,No,No
+31,male,No,No,No,Don't know,Don't know,No,No
+28,Male,No,No,No,Yes,Yes,No,No
+32,Female,No,Yes,Yes,Don't know,Yes,No,Yes
+45,F,No,Yes,No,No,Yes,No,No
+33,Male,No,No,Yes,No,Don't know,No,No
+29,male,No,No,Yes,No,No,Maybe,No
+26,f,No,No,No,No,Don't know,Maybe,No
+28,Female,No,No,No,Don't know,Yes,No,No
+45,M,No,Yes,No,Don't know,Don't know,Yes,No
+43,Male,Yes,Yes,Yes,Don't know,Don't know,Maybe,No
+37,male,No,No,Yes,No,Don't know,No,No
+24,Male,No,No,No,Don't know,Don't know,No,No
+26,Male,No,No,Yes,No,Don't know,No,No
+23,male,Yes,No,Yes,No,Don't know,No,No
+35,Female,Yes,Yes,No,No,Yes,No,No
+38,Female,Yes,Yes,Yes,No,Yes,Maybe,Yes
+28,Male,Yes,Yes,No,No,Don't know,Maybe,No
+28,Male,No,No,No,No,Don't know,Maybe,No
+35,Male,No,Yes,No,No,Yes,No,No
+32,female,No,No,No,No,Don't know,Yes,Yes
+31,Mal,Yes,No,No,No,Don't know,Maybe,No
+35,Female,No,No,Yes,No,Don't know,Maybe,No
+26,Male,No,No,No,No,Yes,No,No
+27,Male,Yes,No,Yes,No,Don't know,Maybe,No
+28,Male,Yes,Yes,No,No,Don't know,Maybe,No
+27,Female,Yes,Yes,No,No,Don't know,No,No
+34,female,No,Yes,No,Yes,Yes,No,No
+41,male,No,Yes,Yes,No,Don't know,Maybe,No
+37,Male,No,No,No,No,Don't know,No,No
+34,male,Yes,No,Yes,Don't know,Don't know,No,No
+32,Male,Yes,Yes,Yes,No,Don't know,Maybe,Yes
+21,Male,No,Yes,Yes,No,Don't know,No,No
+30,M,No,Yes,No,No,Yes,No,No
+24,male,No,No,No,Don't know,Don't know,No,No
+26,male,No,No,No,No,No,Maybe,No
+40,Female,No,No,No,Yes,Yes,No,No
+37,Male,Yes,No,No,No,Don't know,Maybe,No
+26,Male,No,Yes,Yes,No,Don't know,No,No
+32,F,Yes,Yes,No,No,No,Maybe,Yes
+32,f,No,Yes,No,Don't know,Yes,No,No
+27,female,Yes,Yes,Yes,Don't know,Don't know,No,No
+30,Male,No,Yes,Yes,No,Yes,No,No
+31,M,No,No,No,Don't know,Yes,No,No
+29,F,No,Yes,No,Don't know,Don't know,No,No
+41,Male (CIS),No,No,No,No,Don't know,No,No
+34,female,No,No,No,No,Don't know,No,No
+33,Male,No,No,No,No,Don't know,No,No
+28,male,No,No,No,No,Don't know,No,No
+28,Male,No,Yes,No,No,Yes,No,No
+23,Male,No,No,No,Don't know,Don't know,No,No
+24,M,No,No,No,No,Yes,No,No
+32,male,No,No,Yes,No,Don't know,No,No
+34,Male,No,No,Yes,Yes,Don't know,Yes,No
+24,Male,No,No,No,Don't know,Don't know,No,No
+26,male,No,Yes,No,No,Don't know,No,No
+36,Male,No,Yes,No,Yes,Don't know,No,Yes
+41,Male,No,Yes,Yes,Don't know,Don't know,Maybe,No
+38,Male,No,Yes,No,Don't know,Don't know,No,No
+38,Male,No,No,Yes,Don't know,Don't know,Maybe,No
+30,male,No,No,No,Don't know,Yes,No,No
+25,Male,No,No,No,No,Don't know,Maybe,No
+37,Male,Yes,Yes,No,Don't know,Don't know,No,No
+34,Male,Yes,No,No,No,Yes,No,Yes
+37,F,Yes,Yes,No,Yes,Yes,No,No
+28,Female,Yes,Yes,No,Yes,Yes,No,Yes
+22,Male,No,No,No,No,Don't know,No,No
+34,male,Yes,Yes,No,No,Don't know,No,Yes
+33,M,Yes,Yes,No,Yes,Yes,No,No
+25,Male,No,No,No,No,Yes,No,No
+27,Male,No,No,Yes,Don't know,Yes,No,No
+40,M,No,Yes,Yes,Yes,Yes,Maybe,Yes
+21,Male,No,Yes,No,Don't know,Don't know,No,No
+29,Male,No,No,No,No,Yes,No,No
+32,M,Yes,Yes,Yes,No,Don't know,No,No
+29,f,Yes,Yes,Yes,Don't know,Yes,No,No
+23,Male,Yes,Yes,Yes,Don't know,Yes,No,No
+28,Male,Yes,No,No,Don't know,Yes,No,Yes
+31,male,Yes,Yes,Yes,Don't know,Yes,No,No
+27,Male,No,No,No,Don't know,No,Maybe,No
+24,Male,No,No,No,Don't know,Don't know,No,No
+29,Male,No,No,No,No,Don't know,No,No
+23,Female,No,Yes,No,Don't know,Don't know,Maybe,No
+42,Male,No,No,Yes,Yes,Don't know,No,No
+24,Male,No,No,No,No,Don't know,No,No
+25,Male,Yes,Yes,No,No,No,Maybe,Yes
+27,Female,No,Yes,No,No,Yes,Maybe,No
+27,Male,No,No,Yes,No,No,Yes,No
+30,Male,No,Yes,Yes,Yes,Yes,No,No
+29,male,Yes,Yes,No,No,Yes,No,No
+43,Male,No,No,Yes,No,Don't know,No,No
+32,male,No,No,No,Don't know,Don't know,No,No
+41,Male,No,Yes,Yes,No,Don't know,No,No
+32,Male,Yes,Yes,Yes,Don't know,Don't know,Maybe,Yes
+37,Female,Yes,Yes,No,No,Yes,No,No
+32,Male,No,No,Yes,No,Don't know,No,No
+30,Male,No,No,Yes,No,Don't know,No,No
+23,female,Yes,Yes,No,Don't know,Yes,No,No
+30,Male,No,No,No,Yes,Yes,No,No
+34,male,No,No,No,No,Don't know,Maybe,No
+38,Male,No,Yes,Yes,No,Don't know,No,No
+33,Male,No,No,No,Yes,Yes,No,No
+34,male,No,No,No,No,Don't know,No,No
+28,male,No,No,No,No,Don't know,Maybe,No
+28,male,No,Yes,No,Don't know,Don't know,No,No
+23,Male,Yes,No,No,Don't know,Don't know,No,No
+22,Male,Yes,Yes,Yes,Yes,Don't know,No,Yes
+27,male,No,No,No,No,Yes,No,No
+18,male,No,Yes,No,Don't know,Don't know,No,No
+35,male,Yes,Yes,No,No,Yes,No,No
+25,Male,No,No,No,No,Don't know,No,No
+27,Male,Yes,Yes,No,No,Yes,Maybe,No
+26,Female,Yes,Yes,No,Don't know,Don't know,No,No
+18,Male,No,No,No,Don't know,Don't know,No,No
+38,Female,No,Yes,No,No,Don't know,Maybe,Yes
+26,Female,Yes,Yes,Yes,Don't know,Don't know,No,No
+30,Male,No,No,No,No,No,No,No
+35,male,No,No,No,Don't know,Don't know,Maybe,No
+45,male,Yes,Yes,No,Don't know,Yes,No,No
+32,Male,No,No,No,Don't know,Don't know,No,No
+56,Male,No,Yes,No,Don't know,Don't know,Maybe,No
+24,Female,No,No,No,Don't know,Don't know,Maybe,No
+30,F,Yes,Yes,No,Don't know,Don't know,No,No
+60,male,No,No,No,Yes,Don't know,No,No
+33,Male,Yes,Yes,No,Yes,Don't know,No,No
+37,M,No,No,No,Yes,Don't know,No,No
+23,Female,No,Yes,No,Yes,Don't know,No,No
+31,f,No,Yes,No,Don't know,Yes,No,No
+26,Male,No,No,No,Don't know,Don't know,No,No
+28,female,Yes,Yes,Yes,Yes,Yes,No,No
+37,F,No,Yes,No,Yes,Don't know,No,No
+26,male,Yes,Yes,No,Don't know,Don't know,No,No
+30,queer/she/they,Yes,Yes,No,No,Don't know,No,No
+26,M,No,No,No,No,Don't know,No,Yes
+25,Male,No,No,Yes,Don't know,Don't know,No,No
+27,Male,No,No,No,Yes,Don't know,No,No
+25,Male,No,Yes,Yes,Don't know,Don't know,Maybe,No
+35,male,No,Yes,No,Yes,Don't know,No,No
+36,Male,No,Yes,No,No,Don't know,No,No
+26,Male,Yes,Yes,No,Don't know,Don't know,No,No
+27,Male,Yes,No,No,Don't know,Don't know,No,No
+30,male,No,No,No,Don't know,Don't know,Maybe,No
+29,M,No,No,No,Don't know,Don't know,No,No
+25,Male,No,No,No,Yes,Yes,No,No
+22,Female,Yes,Yes,No,Yes,Yes,No,Yes
+29,male,No,No,No,No,Don't know,Maybe,No
+41,Male,Yes,Yes,Yes,Yes,Yes,No,No
+29,Male,No,Yes,No,Don't know,Don't know,No,No
+32,Male,No,No,No,Yes,Yes,No,No
+24,female,Yes,Yes,No,Yes,Yes,No,No
+25,Male,No,Yes,No,No,Don't know,No,No
+25,m,No,No,No,Don't know,Don't know,No,No
+30,Female,No,No,No,Yes,Yes,Maybe,No
+25,Male,Yes,Yes,No,Yes,Don't know,No,No
+30,Male,No,No,Yes,No,Don't know,No,No
+33,male,Yes,Yes,No,No,Don't know,Yes,Yes
+24,Male,No,No,No,Yes,Yes,No,No
+25,Male,Yes,Yes,No,Don't know,Don't know,Maybe,No
+31,Male,No,No,No,No,Yes,No,No
+45,Male,No,Yes,No,No,Don't know,No,No
+29,m,No,No,Yes,No,Don't know,Maybe,No
+46,M,No,No,No,Don't know,Don't know,No,No
+30,Male,No,Yes,No,Don't know,Don't know,Maybe,No
+29,F,No,No,No,No,Don't know,Maybe,No
+24,Male,No,No,No,Don't know,Yes,No,No
+29,male,No,No,No,Yes,Yes,No,No
+35,Male,No,No,No,Don't know,Don't know,No,No
+33,f,Yes,No,Yes,No,Don't know,Maybe,No
+27,Male,No,No,No,Don't know,Don't know,No,No
+36,Male,No,No,No,Don't know,Don't know,No,No
+33,Male,No,No,Yes,No,Don't know,Maybe,No
+25,F,Yes,Yes,No,No,Yes,No,No
+23,Male,Yes,Yes,No,No,Don't know,No,No
+54,M,Yes,Yes,No,Yes,Don't know,No,No
+22,Male,No,No,No,Don't know,Don't know,No,No
+25,non-binary,Yes,Yes,No,Don't know,Don't know,No,No
+29,Male,No,No,No,No,Don't know,No,No
+27,Male,No,Yes,No,Yes,Yes,No,No
+30,Male,No,No,No,Don't know,Don't know,No,No
+26,male,Yes,Yes,No,Yes,Don't know,No,No
+25,Female,Yes,No,No,No,Don't know,No,No
+31,Male,No,Yes,No,Don't know,Yes,No,No
+33,M,Yes,Yes,No,No,Don't know,No,No
+34,M,Yes,Yes,No,Yes,Yes,Maybe,No
+34,Male,No,Yes,Yes,No,Don't know,Yes,No
+29,M,No,No,Yes,No,Yes,No,No
+33,Femake,No,No,No,No,Don't know,No,No
+34,male,Yes,Yes,Yes,Don't know,Don't know,No,No
+26,male,Yes,Yes,Yes,Don't know,No,No,No
+32,Male,Yes,Yes,No,Yes,Yes,No,No
+329,Male,No,Yes,Yes,No,Don't know,No,No
+28,Male,Yes,Yes,No,Don't know,Don't know,Maybe,No
+35,Male,Yes,No,No,Yes,Yes,No,No
+36,Male,Yes,Yes,No,No,Yes,No,No
+21,Male,Yes,Yes,No,Don't know,Yes,No,No
+21,Male,No,Yes,No,No,No,No,No
+22,F,No,No,No,Yes,Yes,No,No
+41,m,Yes,Yes,No,Yes,Don't know,No,Yes
+55,M,Yes,Yes,No,Yes,Yes,No,No
+32,F,No,Yes,No,Yes,Yes,No,No
+21,F,Yes,Yes,No,No,Don't know,No,No
+45,M,No,Yes,Yes,Don't know,Don't know,No,No
+27,female,No,Yes,No,No,Yes,Maybe,No
+25,Female,Yes,Yes,Yes,No,Don't know,No,No
+34,woman,Yes,Yes,No,Yes,Yes,Maybe,No
+26,F,Yes,Yes,No,Yes,Yes,No,No
+41,Male,No,Yes,No,Don't know,Don't know,No,No
+27,Male,No,Yes,No,Yes,Yes,No,No
+31,Make,Yes,Yes,Yes,No,Don't know,No,No
+25,Male,Yes,Yes,Yes,No,Yes,No,No
+26,M,No,Yes,No,No,Don't know,Yes,No
+27,female,Yes,Yes,Yes,Don't know,Don't know,Maybe,No
+42,Male,No,No,No,No,Don't know,No,No
+29,Nah,Yes,Yes,Yes,No,Don't know,No,No
+25,female,No,Yes,No,No,Don't know,No,No
+33,Female,Yes,Yes,No,Yes,Yes,No,No
+99999999999,All,Yes,Yes,No,No,No,Yes,Yes
+40,female,Yes,Yes,No,Don't know,Don't know,Maybe,No
+31,Male,No,No,No,Don't know,Don't know,No,No
+26,Male,Yes,Yes,Yes,Don't know,Don't know,No,No
+24,female,Yes,No,No,No,No,Maybe,Yes
+29,Male,No,No,No,Don't know,Don't know,No,No
+48,M,No,No,No,No,Don't know,Maybe,No
+35,Male,No,No,No,No,Don't know,Maybe,Yes
+32,female,No,No,No,No,Don't know,No,No
+29,Male,No,Yes,No,Don't know,Yes,No,No
+26,Male,Yes,Yes,No,No,Don't know,No,No
+28,Male,Yes,Yes,No,No,Don't know,No,No
+23,male,No,No,No,Don't know,Don't know,No,No
+35,M,Yes,Yes,No,No,Don't know,Maybe,Yes
+29,male,Yes,Yes,No,No,Don't know,No,No
+26,Male,Yes,No,No,Yes,Yes,No,No
+33,Male,Yes,Yes,Yes,Yes,Don't know,Maybe,No
+33,Male,No,No,Yes,Don't know,Don't know,No,No
+22,Male,No,No,Yes,No,Don't know,No,No
+30,female,Yes,No,No,No,Don't know,Maybe,No
+33,male,Yes,Yes,Yes,No,Don't know,No,No
+31,Female,Yes,Yes,No,Don't know,Don't know,Maybe,No
+21,male,Yes,No,No,Don't know,Don't know,No,Yes
+31,Enby,Yes,Yes,No,No,Don't know,Maybe,No
+26,F,No,Yes,Yes,Don't know,Don't know,No,No
+30,Male,Yes,No,No,Don't know,Don't know,No,No
+30,fluid,Yes,Yes,No,No,Don't know,No,No
+23,Male,No,No,No,No,Don't know,No,No
+34,Male,No,No,No,No,Don't know,No,No
+55,M,Yes,Yes,Yes,Don't know,Don't know,Maybe,Yes
+28,male,Yes,Yes,Yes,No,Yes,No,No
+26,M,No,No,Yes,No,Don't know,No,No
+28,Male,Yes,Yes,Yes,No,Don't know,No,No
+32,Male,Yes,Yes,No,Don't know,Don't know,No,No
+28,Female,No,Yes,No,Don't know,Don't know,No,No
+21,M,No,No,No,Yes,Yes,No,No
+24,Male,Yes,Yes,No,No,Don't know,No,Yes
+26,Female,No,No,No,Don't know,Don't know,No,No
+23,Male,No,No,No,No,Don't know,No,No
+24,Female,No,No,No,Yes,Yes,No,No
+28,Male,No,No,Yes,No,Don't know,No,No
+24,F,Yes,Yes,No,No,Don't know,No,No
+33,male,No,Yes,Yes,No,Yes,Maybe,No
+34,male,No,No,No,No,Don't know,No,No
+27,female,No,Yes,No,No,Don't know,Maybe,No
+28,Male,No,No,No,Don't know,Don't know,No,No
+26,Male,No,No,No,Don't know,Don't know,No,Yes
+20,Male,No,No,Yes,Don't know,Yes,No,No
+23,female,No,Yes,No,Don't know,Don't know,No,No
+29,Male,Yes,Yes,Yes,Yes,Yes,No,No
+26,Male,Yes,No,No,No,Don't know,Maybe,No
+36,Male,No,No,Yes,Don't know,Don't know,No,No
+41,m,No,Yes,No,Yes,Yes,No,Yes
+33,female,No,No,Yes,No,Don't know,No,No
+23,M,Yes,Yes,No,No,Yes,No,No
+39,Male,Yes,No,No,Don't know,Don't know,No,Yes
+34,M,Yes,No,No,Don't know,Don't know,No,Yes
+26,F,No,Yes,No,No,Don't know,Maybe,Yes
+24,Male,No,Yes,No,No,Don't know,No,No
+37,Male,Yes,Yes,No,Yes,Don't know,Maybe,No
+43,Male,Yes,Yes,Yes,No,Yes,No,No
+40,Genderqueer,Yes,No,No,Don't know,Yes,Maybe,No
+30,male,Yes,Yes,No,No,Don't know,No,Yes
+34,M,No,Yes,No,No,Don't know,Yes,No
+27,Male,Yes,Yes,No,Don't know,Don't know,No,No
+36,Male,No,No,No,No,Yes,No,No
+27,Male,No,No,No,No,Don't know,No,No
+35,Male,Yes,No,No,No,Yes,No,No
+32,Male,No,No,No,No,Don't know,No,No
+37,M,No,No,No,No,Don't know,Maybe,No
+29,Male,No,No,No,Don't know,Don't know,No,No
+33,Female ,No,No,No,Yes,Don't know,No,No
+28,Make,No,No,Yes,No,Don't know,Maybe,No
+26,Female,Yes,No,No,No,Don't know,Maybe,No
+27,M,Yes,Yes,Yes,Don't know,Don't know,No,No
+38,Male,No,Yes,Yes,No,Yes,Maybe,No
+57,M,Yes,Yes,No,No,Don't know,No,No
+28,Male,No,Yes,No,No,No,Maybe,No
+26,male,No,No,No,No,Don't know,No,No
+42,f,No,Yes,Yes,No,Yes,No,No
+31,Male,No,Yes,Yes,Yes,Yes,No,No
+58,Male,No,Yes,No,Yes,Yes,No,No
+29,Male,No,No,No,No,Don't know,No,No
+39,Female,No,Yes,No,Yes,Don't know,No,Yes
+34,Male,No,No,Yes,No,Don't know,No,No
+57,Male,No,Yes,No,Yes,Don't know,Maybe,No
+27,Male,Yes,Yes,No,No,Don't know,Maybe,Yes
+23,male,Yes,Yes,Yes,Don't know,Don't know,Maybe,No
+18,male,No,No,Yes,Don't know,Don't know,No,No
+30,female,No,No,No,No,Don't know,No,No
+23,Male,No,No,No,Don't know,Don't know,No,No
+43,M,No,Yes,No,Yes,Yes,Maybe,No
+18,Female,Yes,Yes,Yes,Don't know,Don't know,Maybe,No
+29,male,No,Yes,No,No,Don't know,No,No
+48,M,No,No,No,Don't know,Don't know,No,No
+43,male,No,Yes,No,No,Don't know,No,Yes
+28,Female,Yes,Yes,No,No,Don't know,Maybe,No
+30,Male,Yes,Yes,Yes,No,Yes,No,No
+26,Male,No,No,No,No,Yes,No,No
+33,Male,No,No,No,No,Don't know,Maybe,No
+31,Male,No,No,No,Don't know,Yes,No,No
+30,M,No,No,No,No,Don't know,No,No
+27,Male,No,No,No,No,Don't know,No,Yes
+24,Female,Yes,Yes,Yes,Don't know,Don't know,No,Yes
+25,male,No,No,No,Don't know,Don't know,No,No
+23,Female,Yes,Yes,No,No,Don't know,No,Yes
+36,m,No,Yes,No,No,Don't know,Maybe,Yes
+25,female,Yes,Yes,Yes,No,Yes,No,Yes
+54,Male,No,Yes,Yes,Yes,Yes,No,No
+34,Male,No,No,No,Don't know,Don't know,No,No
+38,female,No,Yes,No,No,Yes,Maybe,No
+40,Male,Yes,No,No,No,No,Maybe,Yes
+32,male,No,No,No,Don't know,Don't know,No,No
+25,Male,No,No,No,Yes,Don't know,No,No
+35,Female,No,Yes,No,No,Don't know,Maybe,No
+46,male,No,Yes,No,Yes,Don't know,No,No
+42,male,No,No,No,No,Don't know,No,No
+32,male,Yes,Yes,Yes,No,Don't know,No,No
+47,M,Yes,Yes,No,Yes,Don't know,No,No
+22,Male,No,No,No,Don't know,Yes,No,No
+33,Female,No,Yes,Yes,Yes,Don't know,No,No
+25,f,No,No,No,No,No,No,No
+29,M,No,No,No,Don't know,Don't know,No,No
+39,Male,No,No,No,Yes,Yes,No,No
+38,male,Yes,Yes,No,Yes,Yes,No,No
+43,Male,No,No,Yes,Don't know,Don't know,No,No
+46,Male,No,Yes,Yes,Yes,Yes,No,No
+38,Female,Yes,Yes,No,Yes,Yes,No,Yes
+33,Male,No,Yes,No,No,Yes,Yes,No
+34,Male,Yes,Yes,No,No,Yes,Maybe,No
+62,M,No,No,No,Yes,Don't know,No,No
+23,F,No,No,No,Don't know,Yes,Maybe,No
+35,Male,No,No,No,No,Don't know,Maybe,No
+25,Male,Yes,No,Yes,Don't know,Don't know,Yes,Yes
+36,M,Yes,Yes,Yes,No,Yes,No,No
+41,Female,Yes,Yes,Yes,Yes,Yes,Maybe,No
+24,male,No,No,No,Don't know,Yes,No,No
+51,Male,No,Yes,Yes,No,No,Yes,Yes
+29,M,No,Yes,No,Yes,Yes,No,No
+31,Female,Yes,Yes,Yes,Don't know,Don't know,Maybe,No
+27,Male,No,No,No,No,Don't know,No,No
+31,Male,No,Yes,No,Yes,Don't know,No,No
+27,female,Yes,No,Yes,No,No,Maybe,No
+23,Male,No,No,No,Don't know,Don't know,No,No
+21,Male,No,No,No,No,Don't know,Maybe,No
+27,Female,Yes,Yes,No,No,No,No,No
+39,M,Yes,Yes,Yes,Yes,Don't know,No,No
+26,M,Yes,Yes,No,Don't know,Don't know,No,No
+27,Male,No,No,No,No,Don't know,Maybe,No
+22,Female,Yes,Yes,No,Don't know,Don't know,No,Yes
+26,F,Yes,Yes,No,No,Don't know,No,No
+31,Female,Yes,Yes,No,No,Yes,No,No
+32,male,No,No,No,No,Don't know,No,No
+28,female,Yes,Yes,Yes,Don't know,Don't know,Yes,Yes
+28,Androgyne,Yes,Yes,No,No,Yes,Yes,Yes
+23,female,No,No,No,No,Don't know,No,No
+30,Male,No,No,Yes,Don't know,Don't know,No,No
+36,Male,Yes,Yes,No,Yes,Don't know,No,No
+21,M,Yes,No,No,Yes,Yes,No,No
+30,male,No,No,No,No,Don't know,No,No
+25,Woman,Yes,No,No,No,Don't know,No,No
+32,Male,No,Yes,No,No,Don't know,No,No
+29,female,No,Yes,No,No,Don't know,No,No
+21,Agender,No,Yes,No,No,Yes,No,No
+27,Female,Yes,Yes,Yes,No,Don't know,Maybe,No
+32,Female,No,Yes,No,Don't know,Don't know,No,No
+34,M,No,No,No,Yes,Yes,No,No
+33,M,No,No,No,Don't know,Don't know,No,No
+22,Male,Yes,Yes,Yes,Don't know,Don't know,No,No
+24,M,No,No,No,Don't know,Don't know,Maybe,No
+65,Male,No,No,Yes,No,Don't know,No,No
+27,Male,Yes,Yes,Yes,Don't know,Don't know,No,No
+33,Male,No,No,No,Don't know,Yes,No,No
+36,Male,No,Yes,No,Don't know,Don't know,No,No
+40,Male,No,No,No,No,Don't know,No,No
+28,male,No,Yes,No,No,Yes,No,No
+39,Male,No,Yes,No,Don't know,Yes,Maybe,No
+32,Male,No,Yes,No,Yes,Don't know,No,No
+31,male,Yes,No,No,Don't know,Don't know,No,No
+38,Make,Yes,Yes,No,No,Don't know,Maybe,No
+23,Male,Yes,Yes,No,No,Don't know,No,No
+42,Make,No,Yes,No,Yes,Yes,Maybe,No
+27,Female,No,No,No,Yes,Don't know,No,No
+26,Female,Yes,Yes,No,No,Yes,No,Yes
+50,Male,No,No,Yes,No,Don't know,No,No
+37,Male,Yes,No,No,Don't know,Don't know,No,No
+23,Male,No,No,No,No,Don't know,No,No
+33,M,Yes,No,Yes,No,Yes,No,No
+29,male,No,No,Yes,No,Yes,No,No
+34,Male,Yes,Yes,Yes,No,Don't know,No,No
+41,male,Yes,Yes,No,No,Don't know,Maybe,Yes
+50,Male,Yes,No,Yes,Don't know,Don't know,No,No
+29,Male,No,Yes,No,Yes,Yes,No,Yes
+35,Male,No,No,No,No,Yes,No,No
+27,Male,No,No,Yes,No,Yes,No,No
+40,Female,No,No,No,No,Don't know,Maybe,No
+27,Male,No,Yes,Yes,No,Don't know,No,Yes
+29,f,No,No,No,No,Yes,No,Yes
+31,Male,Yes,Yes,No,No,Don't know,No,No
+43,Male,No,Yes,No,No,Don't know,No,No
+34,Male,Yes,Yes,Yes,No,Don't know,No,Yes
+29,Male,Yes,Yes,No,No,No,No,No
+19,Male,Yes,Yes,No,No,Don't know,Maybe,No
+41,m,Yes,Yes,No,Yes,Don't know,No,No
+29,Male,Yes,No,No,Yes,Don't know,No,No
+23,Male,No,No,No,Don't know,Don't know,No,No
+24,Female,Yes,Yes,No,No,Don't know,Maybe,Yes
+31,M,No,No,Yes,Don't know,Don't know,No,No
+43,Male,No,No,Yes,Don't know,Don't know,No,No
+31,Male,Yes,Yes,No,Don't know,Don't know,Yes,Yes
+29,Male,Yes,No,No,Yes,Don't know,No,No
+35,Male,Yes,No,Yes,Yes,Don't know,No,No
+33,Male,Yes,Yes,No,No,Yes,Yes,No
+30,cis-female/femme,Yes,Yes,Yes,Yes,Yes,No,No
+27,male,No,No,No,Don't know,Yes,Maybe,No
+32,Male,No,No,No,No,Don't know,Maybe,No
+50,Male,No,No,Yes,Don't know,Don't know,Maybe,No
+24,male,No,No,No,No,Don't know,Yes,No
+27,Male,No,No,No,No,Don't know,No,No
+27,Male,No,No,Yes,No,Don't know,No,No
+32,Male,No,Yes,No,No,Yes,No,No
+42,Male,No,No,Yes,No,Don't know,No,No
+37,Male,No,No,No,No,Don't know,No,No
+30,Male,No,No,No,No,Don't know,No,Yes
+29,Male,No,No,No,No,Don't know,Maybe,No
+30,Male,No,Yes,Yes,Yes,Don't know,No,No
+35,Male,No,No,No,Don't know,Don't know,No,No
+35,Male,Yes,Yes,Yes,No,Yes,No,No
+38,male,Yes,No,Yes,Don't know,Don't know,Maybe,No
+22,Male,Yes,Yes,No,No,Yes,No,No
+24,m,Yes,No,No,No,Don't know,No,No
+22,M,No,No,No,No,Don't know,Maybe,Yes
+31,Female,No,Yes,Yes,No,Don't know,No,No
+23,female,Yes,Yes,No,Yes,Yes,Maybe,No
+31,Female,Yes,Yes,No,No,Don't know,No,No
+28,Female,Yes,Yes,No,Yes,Don't know,No,No
+37,Guy (-ish) ^_^,Yes,Yes,No,No,Don't know,Maybe,No
+34,male,Yes,Yes,No,No,Yes,No,No
+32,male leaning androgynous,No,No,Yes,No,Yes,Maybe,Yes
+28,Male,Yes,Yes,Yes,Don't know,Don't know,No,Yes
+24,Female,No,Yes,No,No,Don't know,No,No
+56,Male ,Yes,Yes,No,No,Don't know,Maybe,No
+31,Male,No,No,Yes,No,No,No,No
+34,female,No,Yes,Yes,Don't know,Don't know,No,No
+35,m,No,Yes,No,Don't know,Don't know,No,No
+28,male,No,No,No,No,Don't know,No,No
+36,male,Yes,Yes,No,No,Don't know,No,Yes
+30,Male,No,Yes,No,No,Yes,No,No
+35,Male,No,No,Yes,No,Yes,No,No
+49,male,Yes,Yes,Yes,No,Don't know,Yes,Yes
+36,Male,No,No,No,No,Yes,No,No
+35,male,No,No,No,No,Don't know,No,No
+29,Female,Yes,Yes,No,Yes,No,No,Yes
+57,Male,No,No,No,Yes,Yes,Maybe,Yes
+31,female,Yes,Yes,No,No,No,No,Yes
+37,Male,No,No,No,No,Don't know,Maybe,No
+25,Male,Yes,Yes,No,No,Don't know,No,No
+30,Male,No,No,No,No,Don't know,No,No
+26,F,Yes,No,No,Yes,Don't know,No,No
+22,Female,No,No,No,No,Don't know,No,No
+39,M,No,No,Yes,Yes,Don't know,No,No
+29,Male,Yes,Yes,No,Don't know,Don't know,Maybe,No
+54,male,Yes,Yes,Yes,No,Don't know,No,Yes
+34,Female,Yes,No,No,Yes,Don't know,Maybe,Yes
+32,M,No,Yes,No,Yes,Don't know,No,No
+25,Male,No,No,No,No,Don't know,No,No
+29,male,No,No,No,No,No,Maybe,No
+32,male,No,No,Yes,No,Don't know,No,No
+30,M,Yes,Yes,No,Don't know,Yes,No,No
+31,male,No,No,No,Don't know,Don't know,No,No
+20,F,No,No,No,Yes,Yes,No,No
+27,Male,No,No,No,Don't know,Don't know,No,No
+32,Male,No,No,No,Don't know,Don't know,Maybe,No
+26,Male,No,No,Yes,No,Don't know,No,No
+30,Male,No,No,No,No,Yes,No,No
+30,Male,No,Yes,Yes,No,Don't know,Maybe,No
+22,male,No,No,Yes,Don't know,Don't know,Maybe,Yes
+24,male,No,No,No,Don't know,Don't know,No,No
+26,m,No,No,No,No,Don't know,Maybe,No
+43,male,No,No,No,No,Don't know,No,No
+26,Male,No,No,No,Don't know,Don't know,No,No
+23,Male,Yes,No,No,Don't know,Don't know,No,No
+26,Man,No,No,Yes,Yes,Don't know,No,No
+26,female,Yes,No,No,Don't know,Don't know,No,No
+35,Male,Yes,No,No,No,Don't know,Maybe,No
+28,Male,No,Yes,Yes,Don't know,Don't know,No,No
+22,Male,No,No,No,No,Don't know,Maybe,No
+29,Female,Yes,Yes,No,No,Don't know,No,No
+29,Male,No,No,No,No,Yes,No,No
+45,Male,No,Yes,Yes,Yes,Don't know,No,No
+33,male,No,Yes,Yes,No,Don't know,No,Yes
+38,Male,No,Yes,No,Yes,Don't know,No,No
+19,Trans woman,Yes,Yes,No,No,Don't know,Maybe,No
+29,female,No,Yes,Yes,Don't know,Yes,No,No
+21,Female,No,No,No,No,Don't know,Maybe,No
+23,Female,Yes,Yes,No,Don't know,Don't know,Maybe,No
+33,female,Yes,Yes,No,Yes,Yes,No,No
+49,Male,Yes,Yes,No,Yes,Yes,Maybe,No
+28,Male,No,No,Yes,No,Don't know,No,No
+27,f,No,Yes,Yes,Don't know,Yes,No,No
+23,male,No,Yes,No,No,Don't know,Maybe,No
+29,M,No,No,Yes,No,Yes,No,No
+30,m,No,No,No,Don't know,Yes,No,No
+28,Female,No,No,No,Don't know,Don't know,No,No
+32,Male,No,No,No,No,Don't know,No,No
+32,Male,No,Yes,No,No,Yes,No,No
+37,Male,No,No,No,No,Don't know,Maybe,No
+39,F,No,No,Yes,No,Don't know,Maybe,No
+31,male,No,No,No,Don't know,Don't know,Maybe,No
+29,Male,No,No,No,Don't know,Don't know,Maybe,No
+30,M,No,No,No,Don't know,Don't know,No,No
+33,M,Yes,Yes,Yes,Yes,No,No,Yes
+37,male,Yes,Yes,No,Don't know,Yes,No,No
+23,Male,No,Yes,No,No,Yes,No,No
+43,M,Yes,Yes,No,Yes,Don't know,No,No
+32,Male,No,Yes,No,No,Don't know,No,Yes
+26,Male,No,No,No,No,Don't know,Yes,No
+32,Male,No,Yes,Yes,Don't know,Don't know,No,No
+37,F,No,No,Yes,Don't know,Don't know,No,No
+29,Male,No,Yes,No,No,Yes,No,No
+34,Male,No,No,No,No,Don't know,Maybe,No
+27,male,No,No,No,Don't know,Don't know,No,No
+30,male,Yes,No,No,Don't know,Don't know,No,No
+29,Male,No,No,No,Yes,Yes,No,No
+32,Male,Yes,Yes,Yes,Don't know,Don't know,Maybe,No
+-1726,male,No,Yes,No,No,Don't know,No,No
+25,Male,No,No,No,Yes,Yes,Maybe,No
+37,male,No,No,Yes,No,Yes,No,No
+29,Male,Yes,No,No,No,Don't know,No,No
+27,Man,No,No,No,Don't know,Don't know,No,No
+33,Male,No,No,No,No,Don't know,No,No
+30,male,Yes,Yes,No,No,No,No,Yes
+29,male,No,No,Yes,No,Don't know,Maybe,No
+25,Male,Yes,Yes,Yes,Don't know,Don't know,No,No
+33,Male,Yes,Yes,No,No,Don't know,No,No
+31,Male,No,No,Yes,No,No,No,No
+21,male,No,No,Yes,No,Don't know,Maybe,No
+30,Male,Yes,Yes,No,No,No,Yes,No
+29,Male,No,No,No,Don't know,Don't know,No,No
+43,Male,No,Yes,Yes,No,Yes,No,Yes
+37,m,No,Yes,No,No,Don't know,No,No
+24,Male,No,No,No,No,Don't know,No,No
+29,Male,No,No,Yes,No,Don't know,No,No
+31,Male,No,No,No,Yes,Yes,No,No
+5,Male,No,No,No,No,Don't know,No,No
+33,Male,No,No,No,No,Don't know,No,No
+43,male,No,No,No,Yes,Yes,No,No
+33,Male,No,Yes,No,No,Don't know,No,No
+27,Male,No,No,No,Yes,Yes,No,No
+36,Male,Yes,Yes,Yes,Don't know,Don't know,Maybe,No
+37,male,Yes,Yes,No,No,Yes,No,Yes
+32,male,No,No,No,No,Don't know,Maybe,No
+39,Male,No,Yes,No,No,Don't know,No,No
+31,Male,Yes,Yes,No,Don't know,Don't know,No,No
+36,Male,No,Yes,Yes,No,Don't know,Maybe,No
+30,Male,No,Yes,Yes,Don't know,Don't know,No,No
+28,male,No,No,No,Don't know,Yes,No,No
+32,Male,No,No,No,No,No,No,No
+35,Male,Yes,Yes,No,Yes,Yes,No,No
+19,Male,No,Yes,No,No,Don't know,No,No
+33,m,Yes,No,No,No,Don't know,No,No
+42,male,No,No,Yes,Yes,Yes,No,No
+37,Male,Yes,Yes,No,Don't know,Don't know,No,No
+40,Male,No,No,No,No,Yes,No,No
+36,M,No,No,No,Yes,Yes,No,No
+29,Female,Yes,Yes,Yes,Don't know,Don't know,No,No
+38,f,Yes,Yes,No,Don't know,Don't know,No,No
+26,M,Yes,Yes,No,Don't know,Don't know,Maybe,No
+34,male,No,No,No,No,Yes,Maybe,No
+21,Male,No,Yes,No,No,No,No,Yes
+31,Male,Yes,No,Yes,No,Yes,No,No
+37,Female,Yes,Yes,No,Yes,Don't know,Maybe,No
+37,Male,Yes,Yes,No,No,Don't know,No,No
+38,Male,Yes,Yes,No,No,No,Yes,No
+27,Female,No,Yes,No,Don't know,Don't know,No,No
+39,Male,No,No,No,No,Yes,No,No
+33,Female,Yes,Yes,No,Yes,Yes,Yes,No
+27,Male,No,No,No,Don't know,Don't know,No,No
+36,F,No,Yes,Yes,No,Don't know,Maybe,No
+28,Male,No,No,No,No,Don't know,No,No
+39,male,No,Yes,No,No,Don't know,Maybe,No
+33,Male,Yes,Yes,Yes,No,Yes,Maybe,No
+32,Male,No,No,No,Don't know,Don't know,No,No
+28,Male,No,No,No,Don't know,Don't know,No,No
+37,Male,Yes,Yes,No,No,Yes,No,Yes
+39,Male,No,Yes,No,Yes,Yes,No,Yes
+43,msle,No,No,Yes,Don't know,Don't know,No,No
+32,Neuter,No,Yes,No,Yes,Don't know,No,Yes
+27,Female,No,No,No,Yes,Don't know,No,No
+31,Female,No,No,No,No,Don't know,No,No
+43,Male,No,Yes,No,Don't know,Don't know,No,No
+33,Male,No,Yes,Yes,No,Yes,No,No
+34,male,Yes,Yes,No,Don't know,Yes,No,No
+33,M,No,No,No,No,Don't know,No,No
+25,Male,No,No,No,No,Don't know,No,No
+25,Male,Yes,Yes,No,Yes,Yes,No,Yes
+32,Male,Yes,No,No,No,Yes,No,No
+25,Male,Yes,Yes,No,Don't know,Yes,No,No
+37,Male,No,No,Yes,Don't know,Don't know,No,No
+39,m,No,Yes,No,Yes,Yes,No,No
+29,M,No,No,No,No,Don't know,No,Yes
+33,Male,No,Yes,No,Don't know,Don't know,Maybe,No
+37,female,No,Yes,Yes,No,Yes,No,Yes
+35,Female,No,Yes,No,No,Yes,Maybe,Yes
+22,Female,Yes,Yes,No,Don't know,Don't know,Maybe,Yes
+38,Male,No,No,No,No,Don't know,No,Yes
+32,Female,Yes,Yes,No,Don't know,Don't know,No,No
+28,Male,No,No,No,No,Don't know,No,Yes
+27,Male,Yes,No,No,No,Don't know,No,No
+35,female,No,Yes,Yes,Don't know,Don't know,No,No
+29,Male,No,No,No,No,Yes,Maybe,No
+23,Male,Yes,Yes,No,No,Don't know,No,No
+39,M,No,No,Yes,No,Don't know,Maybe,No
+30,Female,No,No,No,Yes,Yes,No,No
+32,M,No,No,No,Don't know,Don't know,Maybe,No
+28,Female (trans),No,Yes,No,No,Don't know,Maybe,Yes
+40,female,Yes,Yes,No,Yes,Yes,No,Yes
+36,f,Yes,No,No,Don't know,Don't know,No,No
+27,Male,No,No,Yes,Don't know,Don't know,No,No
+41,Male,Yes,No,No,Yes,Don't know,No,No
+29,Male,No,No,No,No,Don't know,No,No
+29,m,No,Yes,No,No,Don't know,No,No
+35,Male,No,Yes,No,No,Yes,No,Yes
+28,Male,No,Yes,Yes,No,Don't know,Maybe,No
+36,F,No,No,Yes,Don't know,Don't know,No,No
+39,Female,No,No,No,Don't know,Don't know,No,No
+39,Male,Yes,Yes,No,Yes,Yes,No,No
+44,male,Yes,Yes,Yes,No,No,Yes,No
+26,queer,No,Yes,Yes,Yes,Yes,No,No
+35,Male,Yes,Yes,No,No,Don't know,No,No
+40,Female,Yes,Yes,No,Don't know,Don't know,Maybe,No
+35,Male,Yes,Yes,No,No,Don't know,No,No
+38,M,No,No,Yes,No,No,Yes,No
+34,Male,No,No,Yes,Don't know,Don't know,No,No
+43,M,No,No,No,Yes,Don't know,No,No
+48,Female (cis),Yes,No,No,No,No,Yes,Yes
+20,Male,No,No,No,Don't know,Don't know,No,No
+40,M,No,No,Yes,No,Don't know,Maybe,No
+29,female,No,Yes,No,No,Don't know,No,No
+35,Male,Yes,Yes,No,No,Yes,No,No
+29,Male,Yes,No,Yes,Yes,Yes,No,No
+40,M,No,No,No,Don't know,Don't know,No,No
+29,Male,No,Yes,No,No,Yes,No,No
+29,F,Yes,Yes,No,No,Don't know,No,No
+34,male,No,Yes,No,No,Don't know,No,No
+44,Male,Yes,Yes,No,No,Don't know,No,Yes
+24,female,Yes,Yes,No,No,Yes,No,Yes
+47,F,No,No,Yes,Don't know,Don't know,Yes,No
+43,m,Yes,No,No,No,Don't know,No,No
+36,M,No,No,No,Yes,Yes,No,No
+43,male,No,Yes,No,Don't know,Don't know,No,No
+36,male,No,No,Yes,No,Don't know,No,Yes
+31,Female,Yes,Yes,No,No,Don't know,No,No
+35,Male,No,No,No,Don't know,Don't know,No,No
+33,male,Yes,No,No,No,Yes,No,No
+37,Male,No,No,No,Don't know,Don't know,Yes,No
+34,M,No,Yes,No,Don't know,Yes,No,No
+36,Male,No,Yes,No,No,Don't know,No,No
+40,m,Yes,Yes,Yes,No,Yes,No,No
+40,M,No,No,No,Yes,Yes,No,No
+42,Male,No,Yes,Yes,No,Don't know,No,No
+23,M,Yes,No,Yes,Don't know,Yes,No,No
+21,Male,Yes,No,No,No,Yes,No,No
+26,Male,No,No,Yes,No,Don't know,Maybe,No
+31,Male,Yes,No,No,No,Don't know,No,No
+25,M,Yes,No,No,Yes,Yes,No,No
+51,Male,No,No,Yes,Yes,Yes,No,No
+24,Male,No,No,No,No,Yes,No,No
+33,Male,No,No,No,No,Don't know,No,No
+32,male,Yes,Yes,No,No,No,Maybe,No
+32,male,Yes,Yes,No,No,No,Maybe,No
+26,Male,No,Yes,Yes,Don't know,Don't know,No,No
+23,M,No,No,No,Don't know,Don't know,No,No
+33,Male,Yes,Yes,Yes,No,Don't know,No,No
+46,Male,No,Yes,No,Yes,Yes,Maybe,No
+34,male,No,No,Yes,No,No,Maybe,Yes
+35,M,Yes,Yes,No,No,Don't know,Maybe,No
+39,M,No,No,Yes,No,Don't know,Maybe,No
+32,male,No,No,Yes,No,Yes,No,No
+43,Male,No,No,Yes,Don't know,Don't know,No,No
+56,m,No,Yes,Yes,Yes,Yes,No,No
+32,Female,Yes,Yes,No,No,Don't know,No,Yes
+41,male,No,No,No,Yes,Yes,Maybe,Yes
+39,Male,No,No,Yes,Don't know,Don't know,No,No
+37,Male,Yes,No,No,No,Yes,No,No
+30,m,Yes,Yes,Yes,Don't know,Don't know,No,No
+31,Male,No,No,No,No,Yes,No,No
+29,M,No,No,No,Don't know,Don't know,No,No
+23,Female,Yes,No,No,Yes,Don't know,Maybe,No
+31,male,No,Yes,No,Don't know,Yes,No,No
+29,Male,Yes,Yes,No,Don't know,Don't know,No,No
+30,Mail,No,No,Yes,Don't know,Yes,No,No
+37,Male,No,No,Yes,Don't know,Don't know,No,Yes
+36,male,No,No,No,Don't know,Don't know,No,No
+35,Male,Yes,Yes,Yes,Don't know,Don't know,Maybe,No
+41,M,Yes,No,Yes,No,Don't know,No,No
+31,Male,No,Yes,No,No,Don't know,No,No
+38,m,Yes,No,No,Yes,Don't know,No,No
+26,Male,No,No,No,No,Yes,No,No
+39,Male,Yes,No,No,Yes,Don't know,Maybe,Yes
+42,male,Yes,No,Yes,Yes,Don't know,Maybe,No
+32,Male,Yes,Yes,Yes,No,Don't know,No,No
+29,m,Yes,No,No,Don't know,Don't know,No,No
+30,Male,Yes,No,No,Yes,Don't know,Yes,No
+40,M,Yes,Yes,Yes,Don't know,Don't know,Maybe,No
+51,m,No,No,No,Don't know,Don't know,No,No
+33,Male,No,No,No,Yes,Yes,No,No
+34,male,No,Yes,Yes,No,Yes,Maybe,No
+50,Male,No,No,Yes,No,Yes,No,No
+24,Male,No,No,Yes,Don't know,Don't know,No,No
+25,Male,Yes,Yes,No,No,Don't know,Maybe,No
+43,Male,Yes,Yes,No,No,Don't know,Yes,Yes
+25,f,No,Yes,No,Yes,Yes,Maybe,Yes
+24,Male,No,No,Yes,No,Yes,No,No
+51,m,No,No,No,No,Yes,No,No
+49,Male,Yes,Yes,No,Yes,Yes,Maybe,Yes
+30,Male,No,No,Yes,Yes,Don't know,Maybe,No
+25,female,Yes,Yes,No,No,Don't know,Yes,No
+36,Male,No,Yes,Yes,Don't know,Don't know,No,No
+48,Male,No,Yes,No,Yes,Yes,Maybe,Yes
+48,male,No,Yes,No,No,Don't know,No,Yes
+53,Male,No,Yes,Yes,Yes,Don't know,Maybe,No
+24,Female,Yes,Yes,Yes,No,Don't know,No,No
+33,Male,Yes,Yes,No,Yes,Don't know,No,No
+25,Female,Yes,Yes,No,No,Yes,No,No
+30,Male,No,Yes,No,No,Don't know,Maybe,No
+30,Male,No,No,Yes,No,Yes,Maybe,No
+34,male,No,Yes,Yes,No,Yes,No,No
+31,Male,No,No,Yes,Yes,Yes,No,No
+22,F,Yes,Yes,No,Don't know,Don't know,Yes,No
+28,Male,Yes,No,No,Don't know,Don't know,No,No
+35,Male,Yes,Yes,No,Yes,Yes,No,No
+28,Male,Yes,Yes,No,No,Don't know,Maybe,No
+42,male,No,Yes,No,No,Yes,Maybe,Yes
+33,Male,Yes,No,No,Don't know,Don't know,No,No
+29,male,No,No,No,No,Don't know,Maybe,No
+43,M,Yes,No,No,Don't know,Don't know,No,No
+29,Male,No,No,No,Yes,Don't know,No,No
+25,Male,No,No,Yes,No,Yes,No,No
+31,Male,Yes,No,No,Don't know,Don't know,No,No
+35,Female,Yes,Yes,No,Yes,Yes,Maybe,No
+34,male,No,No,No,Yes,Don't know,No,No
+43,Cis Male,No,Yes,Yes,Yes,Yes,Maybe,Yes
+38,Male,Yes,Yes,No,No,Don't know,Yes,No
+26,Male,Yes,Yes,No,Yes,Yes,No,Yes
+38,Male,Yes,Yes,Yes,No,Yes,No,No
+42,Male,No,Yes,No,Don't know,Don't know,Maybe,No
+33,Male,Yes,Yes,No,Don't know,Don't know,No,Yes
+32,Male,No,Yes,No,Yes,Yes,No,No
+44,male,Yes,Yes,Yes,Yes,Yes,Maybe,No
+28,Male,Yes,Yes,No,Don't know,Don't know,No,No
+40,Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+31,F,Yes,Yes,No,Don't know,Yes,No,No
+32,male,Yes,No,No,Yes,Don't know,No,No
+28,Male,Yes,Yes,No,Don't know,Don't know,No,No
+39,Male,Yes,Yes,No,No,Yes,No,No
+45,Male,No,No,No,Yes,Don't know,No,No
+43,Male,No,Yes,No,Yes,Don't know,No,No
+35,Male,No,Yes,No,Yes,Don't know,Maybe,No
+40,Male,Yes,Yes,No,Don't know,Yes,No,No
+34,Male,No,Yes,No,No,Yes,No,No
+24,Male,Yes,Yes,No,No,No,Maybe,Yes
+61,male,No,Yes,Yes,No,Don't know,Maybe,Yes
+36,Female ,Yes,Yes,No,Don't know,Don't know,Maybe,No
+38,Male,No,No,No,No,Yes,No,No
+33,male,Yes,Yes,No,No,Yes,No,No
+30,male,Yes,No,No,Don't know,Don't know,Maybe,No
+34,male,Yes,Yes,Yes,Yes,Yes,No,No
+26,Male,No,Yes,No,Don't know,Don't know,No,No
+33,M,No,No,No,Don't know,Don't know,No,No
+32,Male,No,No,No,No,Don't know,No,No
+25,male,No,No,Yes,No,Yes,No,No
+35,male,No,Yes,Yes,No,Don't know,Maybe,No
+24,M,Yes,No,Yes,No,Don't know,No,No
+55,male,No,Yes,No,Yes,Don't know,Maybe,Yes
+33,Male,Yes,Yes,Yes,No,No,Maybe,Yes
+26,Female,Yes,Yes,Yes,No,Don't know,No,No
+25,Male,No,No,Yes,Don't know,Don't know,No,No
+45,Male,Yes,No,No,No,Don't know,No,No
+33,female,No,Yes,Yes,Yes,Yes,No,No
+43,Male,No,No,Yes,No,Don't know,Maybe,Yes
+30,Male,No,Yes,No,No,No,Yes,Yes
+40,Male,Yes,Yes,No,Don't know,Don't know,No,No
+49,Male,Yes,No,No,Yes,Yes,No,No
+29,Male,No,No,No,No,Don't know,No,No
+26,male,No,No,No,Don't know,Don't know,No,No
+38,cis male,No,No,No,Yes,Yes,Maybe,Yes
+27,Male,Yes,No,No,No,Yes,Maybe,Yes
+26,male,No,No,No,No,No,No,No
+28,Male,Yes,Yes,No,No,Don't know,Maybe,No
+40,Male,Yes,Yes,Yes,No,Don't know,Maybe,No
+37,Female,Yes,Yes,Yes,No,Yes,Maybe,Yes
+34,female,Yes,Yes,Yes,Yes,No,Yes,No
+28,male,Yes,Yes,No,Don't know,Don't know,No,No
+27,Male,No,No,No,No,Yes,No,No
+29,Male,No,Yes,Yes,No,Don't know,No,No
+39,Female,Yes,No,Yes,No,Don't know,Yes,Yes
+28,male,No,No,No,No,No,No,No
+23,Male,Yes,No,No,Yes,Yes,No,No
+8,A little about you,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+38,Male,No,No,Yes,No,Yes,No,No
+19,Male,No,No,No,Yes,Don't know,No,No
+30,Female,Yes,Yes,No,Don't know,Yes,No,No
+28,male,No,No,Yes,No,Yes,Maybe,No
+20,Male,No,Yes,No,No,Don't know,No,No
+35,Male,No,No,No,Don't know,Don't know,No,No
+39,male,No,Yes,Yes,No,Yes,No,No
+31,Female,Yes,No,No,Don't know,Don't know,Yes,No
+32,Male,No,No,No,No,Don't know,No,No
+27,Male,No,No,No,No,Don't know,No,No
+25,Male,Yes,Yes,Yes,Don't know,Yes,No,No
+42,male,Yes,Yes,Yes,Don't know,Don't know,No,No
+34,male,Yes,Yes,No,No,Yes,No,No
+26,female,No,Yes,Yes,Don't know,Don't know,No,Yes
+35,Male,Yes,Yes,No,No,Yes,Yes,Yes
+34,Male,No,No,No,Don't know,Don't know,No,No
+38,m,Yes,Yes,Yes,Yes,Yes,No,No
+34,M,No,No,No,No,Don't know,No,No
+39,M,Yes,Yes,Yes,No,Yes,No,No
+44,F,No,No,No,No,Don't know,No,No
+40,male,No,No,No,Yes,Yes,No,No
+33,female,No,No,Yes,Don't know,Yes,No,No
+24,Female,Yes,No,No,Don't know,Don't know,Maybe,Yes
+38,Female,Yes,No,Yes,Don't know,Don't know,No,No
+31,male,No,No,No,Yes,Yes,Maybe,No
+23,Male,No,No,No,No,Yes,No,No
+26,F,No,No,No,No,Don't know,No,No
+46,Female (trans),No,Yes,No,Yes,Don't know,No,Yes
+30,Male,Yes,Yes,Yes,No,Don't know,No,No
+25,Male,No,No,Yes,No,Don't know,No,Yes
+19,M,No,No,Yes,No,Don't know,No,No
+30,Female,Yes,Yes,No,Yes,Yes,Maybe,Yes
+32,m,No,No,No,Yes,Don't know,No,No
+32,Male,No,No,No,No,Don't know,Maybe,No
+37,Male,Yes,No,Yes,No,Don't know,No,No
+42,M,Yes,Yes,Yes,Don't know,Don't know,Maybe,No
+25,female,No,No,No,Yes,Don't know,No,No
+19,Male,No,No,No,No,Don't know,No,No
+40,female,Yes,No,Yes,No,Don't know,Yes,No
+34,Male,No,No,No,Don't know,Don't know,Maybe,No
+26,Male,Yes,No,No,No,Don't know,No,No
+31,Male,Yes,Yes,No,Don't know,Yes,No,No
+40,Male,Yes,No,Yes,Don't know,Don't know,Maybe,No
+31,Female,Yes,Yes,No,No,No,No,Yes
+36,M,No,No,No,Don't know,Don't know,Maybe,Yes
+35,Male,Yes,No,Yes,No,Don't know,No,No
+26,male,Yes,Yes,Yes,No,Yes,No,No
+44,m,No,No,Yes,Don't know,Yes,No,No
+34,Female,No,No,No,No,Don't know,No,No
+35,Male,No,No,Yes,No,Don't know,No,No
+28,female,Yes,Yes,Yes,No,Don't know,No,No
+33,Male,No,No,Yes,Yes,Yes,No,No
+40,M,Yes,Yes,Yes,Yes,Don't know,No,No
+26,Male,No,Yes,No,No,Yes,No,No
+29,f,No,Yes,No,No,Don't know,No,Yes
+26,Female,Yes,Yes,No,No,Yes,No,No
+33,Malr,Yes,Yes,No,No,Don't know,No,No
+28,Male,Yes,No,No,No,Don't know,No,Yes
+41,Male,No,Yes,Yes,Yes,Yes,No,Yes
+39,Male,Yes,Yes,Yes,Yes,Yes,No,Yes
+26,female,Yes,Yes,No,No,Don't know,No,Yes
+23,Female,Yes,No,No,No,Don't know,No,No
+35,Male,Yes,Yes,No,No,Yes,No,No
+36,Male,No,No,Yes,Don't know,Don't know,No,No
+42,M,No,No,No,Don't know,Don't know,No,No
+39,Male,Yes,Yes,No,Don't know,Yes,No,No
+27,Male,No,No,No,Don't know,Don't know,No,No
+33,male,No,No,Yes,No,No,No,No
+31,Male ,Yes,Yes,No,Don't know,Don't know,No,No
+28,Female,No,Yes,No,Yes,Yes,No,No
+29,Female,No,Yes,Yes,No,Don't know,No,No
+27,Male,No,Yes,No,No,Yes,No,No
+44,M,No,No,Yes,No,Yes,No,No
+25,Male,No,Yes,Yes,No,Don't know,No,No
+24,male,Yes,Yes,No,No,Don't know,No,No
+25,Male,Yes,Yes,No,No,Yes,No,Yes
+34,M,No,No,Yes,Don't know,Don't know,Maybe,No
+26,Male,No,No,No,Don't know,Don't know,No,No
+48,Male,No,No,No,Yes,Yes,No,No
+34,Male,No,No,Yes,No,Don't know,Maybe,No
+39,Female,No,Yes,Yes,No,Don't know,Maybe,No
+43,Male,No,No,Yes,Yes,Don't know,No,No
+41,M,No,No,No,Yes,Don't know,Maybe,Yes
+25,Male,No,No,No,No,Don't know,No,No
+31,m,No,Yes,No,No,Don't know,No,No
+40,Male,Yes,Yes,No,Yes,Yes,Yes,Yes
+43,Male,Yes,Yes,Yes,Don't know,Don't know,Maybe,No
+27,Female,Yes,Yes,No,Yes,Yes,No,Yes
+37,female,Yes,Yes,Yes,Don't know,Don't know,Maybe,No
+32,male,No,Yes,No,No,Yes,No,No
+25,Male,Yes,Yes,No,No,Yes,No,No
+29,Male,Yes,Yes,No,Yes,Don't know,Maybe,No
+30,Female,Yes,Yes,No,No,Don't know,No,No
+34,female,Yes,Yes,No,Don't know,Don't know,No,No
+32,male,Yes,Yes,No,Yes,Yes,Maybe,No
+37,male,No,No,No,No,Yes,No,No
+41,male,No,Yes,No,No,Don't know,No,No
+38,male,Yes,No,No,Yes,Don't know,Maybe,No
+32,Male,No,Yes,No,Don't know,Yes,No,No
+28,Female,Yes,Yes,No,Don't know,Don't know,No,No
+11,male,No,No,Yes,No,Yes,No,No
+43,male,Yes,No,No,Don't know,Don't know,No,No
+32,Male,Yes,Yes,No,No,Don't know,No,No
+25,M,No,Yes,No,Don't know,Yes,No,No
+37,Male,No,Yes,No,Yes,Yes,No,No
+36,male,No,Yes,No,No,No,No,Yes
+24,Male,Yes,Yes,Yes,No,Don't know,No,No
+40,male,Yes,Yes,No,Don't know,Don't know,No,Yes
+29,Male,No,No,No,Don't know,Yes,No,No
+43,Male,No,No,No,Don't know,Don't know,No,No
+29,Male,No,No,Yes,Yes,Don't know,No,No
+26,Male,Yes,No,No,No,Don't know,No,No
+33,Female,Yes,Yes,Yes,No,No,Yes,Yes
+35,Female,Yes,No,Yes,No,Don't know,No,No
+45,M,No,No,Yes,No,Don't know,Maybe,No
+25,Male,No,Yes,Yes,Don't know,Don't know,No,No
+50,male,No,Yes,Yes,No,Don't know,Maybe,No
+26,male,Yes,Yes,No,Don't know,Don't know,No,No
+33,female,No,Yes,No,Don't know,Don't know,No,No
+30,Male,No,No,No,No,No,Maybe,No
+33,male,Yes,Yes,Yes,Don't know,Yes,No,No
+29,M,No,Yes,No,No,Yes,Maybe,No
+37,male,No,No,Yes,No,Don't know,No,No
+25,Male,Yes,Yes,Yes,Don't know,Don't know,No,No
+40,m,No,No,No,Don't know,Don't know,No,No
+24,Male,No,No,No,No,Yes,No,Yes
+40,Male,No,Yes,No,Don't know,Don't know,No,No
+46,Male,Yes,Yes,No,Don't know,Don't know,Maybe,No
+38,Male,Yes,Yes,No,Yes,Yes,No,No
+34,Male,No,No,Yes,No,Don't know,Yes,No
+32,Male,No,Yes,No,Yes,Yes,No,Yes
+44,Male,No,Yes,No,Yes,Don't know,No,No
+33,Female,No,Yes,No,Don't know,Don't know,No,No
+45,female,No,Yes,No,Don't know,Don't know,No,No
+35,Male,No,No,No,Don't know,Yes,No,No
+26,Male,Yes,Yes,No,No,Don't know,No,Yes
+20,female,No,Yes,Yes,Don't know,Don't know,No,No
+-1,p,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+37,Male,Yes,No,No,No,Yes,No,No
+28,male,No,No,No,No,Yes,No,No
+42,F,Yes,Yes,No,No,Don't know,No,No
+32,male,No,No,No,No,Don't know,No,Yes
+36,F,Yes,Yes,Yes,No,Yes,Maybe,No
+27,M,No,No,No,Yes,No,No,Yes
+27,M,No,No,No,Yes,No,No,Yes
+27,Male,No,Yes,No,No,Yes,No,No
+25,Male,Yes,Yes,Yes,No,Yes,No,No
+41,M,Yes,No,No,No,Don't know,Maybe,No
+23,Male,Yes,Yes,No,No,Don't know,No,No
+21,Male,No,Yes,No,Don't know,Don't know,No,No
+26,Male,No,Yes,No,No,Yes,No,No
+29,Male,No,No,No,Don't know,Don't know,Maybe,Yes
+28,male,No,No,No,No,Don't know,Maybe,Yes
+27,female,Yes,No,No,No,Yes,No,No
+23,Male,No,No,No,Yes,Yes,No,No
+26,F,Yes,No,Yes,No,Don't know,No,No
+38,Male,Yes,Yes,No,Don't know,Don't know,No,No
+39,M,Yes,Yes,No,No,Yes,Maybe,No
+35,M,Yes,Yes,No,Yes,Don't know,No,No
+32,male,No,No,No,Don't know,Don't know,No,No
+32,Male,No,Yes,No,Yes,Yes,Maybe,Yes
+26,Male,No,No,No,No,Don't know,Maybe,No
+38,Male,Yes,Yes,No,Don't know,Don't know,No,No
+34,Female,Yes,No,No,Yes,Yes,No,No
+39,Male,Yes,Yes,No,No,Don't know,No,No
+32,male,No,No,Yes,No,Don't know,No,No
+37,Male,No,No,Yes,Don't know,Don't know,Yes,No
+31,male,Yes,Yes,No,Don't know,Don't know,No,No
+30,m,Yes,Yes,No,No,Don't know,No,No
+51,M,No,No,Yes,Don't know,Don't know,No,No
+29,M,No,Yes,No,No,Don't know,No,No
+31,Male,No,No,No,Yes,Don't know,Yes,No
+31,Male,No,No,No,No,Don't know,Yes,No
+26,Male,Yes,Yes,Yes,Don't know,Don't know,No,No
+46,Female,No,Yes,Yes,No,Yes,No,No
+32,Male,Yes,No,No,Don't know,Don't know,No,No
+29,Male,Yes,Yes,No,Yes,Don't know,No,No
+34,male,No,No,Yes,No,Don't know,No,No
+26,Male,No,No,No,No,No,No,No
+32,Female,No,Yes,No,Don't know,Don't know,No,No
+29,Male,No,No,No,No,Don't know,No,No
+30,Male,No,No,No,Yes,Don't know,Maybe,No
+40,F,Yes,Yes,No,Yes,Yes,No,Yes
+23,Male,No,Yes,No,No,Don't know,No,Yes
+20,Male,No,No,No,No,Don't know,Yes,No
+38,male,Yes,No,No,No,Don't know,No,Yes
+26,Female,Yes,Yes,No,No,Don't know,Maybe,No
+29,Male,No,No,No,Don't know,Don't know,No,Yes
+40,m,No,No,Yes,No,Don't know,No,No
+25,female,No,Yes,Yes,No,Don't know,Maybe,No
+32,Woman,No,Yes,No,No,Yes,Maybe,No
+38,male,Yes,Yes,No,Yes,Yes,No,Yes
+72,Female,Yes,Yes,Yes,Yes,Don't know,Maybe,Yes
+35,female,Yes,Yes,Yes,No,Yes,Maybe,No
+28,F,No,Yes,No,No,Don't know,Maybe,No
+27,femail,No,No,No,Don't know,Don't know,No,No
+56,female,No,No,Yes,Don't know,Don't know,Maybe,No
+38,Male,Yes,Yes,Yes,No,Don't know,No,No
+31,Female,No,No,No,No,Yes,No,No
+40,Male,Yes,Yes,No,No,Yes,No,No
+44,M,Yes,Yes,No,Yes,Yes,No,No
+34,Male,Yes,No,No,Yes,Yes,No,No
+37,Male,No,No,Yes,No,Don't know,No,No
+38,male,No,No,No,Don't know,Yes,No,No
+27,male,No,No,No,No,Don't know,No,No
+34,female,No,Yes,No,No,Yes,Yes,No
+35,Female,No,No,No,No,No,No,No
+34,male,No,Yes,No,No,Don't know,Maybe,No
+32,Male,No,Yes,Yes,Don't know,Don't know,Maybe,No
+25,male,No,No,No,Don't know,Don't know,No,No
+28,Male,No,Yes,Yes,No,Don't know,No,No
+28,Female,No,Yes,No,No,Don't know,Yes,Yes
+31,Male,No,Yes,No,No,No,No,No
+24,Male,No,No,No,No,Don't know,Maybe,No
+34,Male,Yes,Yes,Yes,No,Don't know,No,No
+32,male,No,Yes,No,No,Don't know,No,No
+34,Male,Yes,No,Yes,No,Don't know,No,No
+23,Male,No,Yes,No,No,No,Maybe,No
+33,Male,Yes,No,No,No,Don't know,No,Yes
+29,male,Yes,Yes,No,No,Don't know,No,No
+24,male,Yes,No,No,No,Don't know,Maybe,No
+45,male,No,No,Yes,No,Don't know,No,Yes
+34,Female,No,Yes,No,Yes,Yes,Maybe,Yes
+31,Male,No,No,No,No,Don't know,Yes,Yes
+33,Male,No,Yes,Yes,No,Yes,No,No
+28,male,No,No,No,No,Don't know,Maybe,No
+27,Male,No,No,Yes,Yes,Don't know,No,No
+42,male,No,No,No,No,No,Yes,No
+28,male,No,No,No,No,Don't know,Maybe,No
+38,Male,No,Yes,Yes,Yes,Yes,No,No
+46,Male,Yes,Yes,No,No,Don't know,No,No
+46,male,Yes,Yes,Yes,Don't know,Don't know,No,No
+41,female,No,Yes,Yes,Yes,No,No,No
+23,Male ,No,No,No,No,Don't know,No,Yes
+24,male,Yes,Yes,No,Yes,Don't know,No,Yes
+23,female,No,Yes,No,No,Don't know,No,No
+39,Male,No,No,No,Don't know,Don't know,Maybe,No
+32,Female,Yes,No,No,Yes,Yes,No,No
+25,Male,Yes,Yes,No,No,Don't know,No,No
+39,Male,No,No,Yes,No,Yes,No,No
+23,Female,Yes,Yes,No,Yes,Yes,No,No
+24,Cis Man,No,Yes,Yes,No,Don't know,Maybe,Yes
+25,Male,Yes,Yes,No,Yes,Yes,No,No
+23,Male,No,Yes,No,No,Don't know,No,No
+24,"ostensibly male, unsure what that really means",No,Yes,No,Don't know,Don't know,Maybe,No
+23,Male,No,Yes,No,Don't know,Don't know,No,No
+60,Male,No,Yes,Yes,Don't know,Don't know,Maybe,No
+28,male,No,No,No,No,Yes,Maybe,Yes
+28,Male,Yes,Yes,No,Yes,Yes,Maybe,Yes
+30,male,No,No,No,No,Don't know,No,No
+31,male,Yes,Yes,No,No,Yes,No,No
+31,Male,No,Yes,Yes,No,Don't know,No,No
+28,Male,No,Yes,No,Don't know,Don't know,No,No
+43,f,Yes,Yes,Yes,Yes,Don't know,No,No
+32,female,No,No,No,Don't know,Don't know,No,No
+22,Male,Yes,Yes,No,Yes,Yes,Maybe,Yes
+32,Male,No,No,No,Yes,Don't know,No,No
+36,male,No,Yes,No,No,No,No,Yes
+41,Female,Yes,Yes,No,Don't know,Don't know,Maybe,No
+30,M,Yes,Yes,No,No,Yes,No,No
+30,Male,Yes,Yes,No,Yes,Don't know,No,No
+36,Male,Yes,Yes,No,No,Don't know,No,No
+29,male,Yes,Yes,Yes,No,Yes,No,No
+36,Male,Yes,No,No,Yes,Don't know,Maybe,No
+26,male,No,Yes,No,No,Don't know,No,No
+32,Male,Yes,Yes,Yes,No,Yes,No,No
+34,male,Yes,Yes,No,No,Don't know,Yes,No
+46,f,No,No,Yes,No,Don't know,No,No
+25,Male,Yes,Yes,No,No,Yes,No,No
